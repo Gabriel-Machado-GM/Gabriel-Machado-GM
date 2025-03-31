@@ -1,42 +1,37 @@
 <p align="left">
-  <a href="https://linkedin.com/in/gabriel-machadoo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-gabriel--machadoo-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/Gabriel-Machado-GM" target="_blank"><img src="https://img.shields.io/badge/GitHub-Gabriel--Machado--GM-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:gabriel.machado.gmbr@gmail.com"><img src="https://img.shields.io/badge/Email-gabriel.machado.gmbr@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/gabriel-machadoo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:gabriel.machado.gmbr@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://gabriel-machado-gm.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Portfolio"/></a>
   </p>
 
-# Hey there! 👋 I'm Gabriel Machado
+## Hey there! 👋 I'm Gabriel Machado
 
-A driven **Data Science & AI enthusiast** currently pursuing a Bachelor's degree in Data Science and Artificial Intelligence at UNIVESP [cite: 2]. Based in São Paulo, Brazil 🇧🇷.
+A **Data Science & AI enthusiast** based in São Paulo, Brazil 🇧🇷, currently pursuing a Bachelor's degree in Data Science and Artificial Intelligence at UNIVESP.
 
-* 🧠 Passionate about the entire data lifecycle: **ETL, Data Analysis, Business Intelligence, Machine Learning, and architecting AWS solutions**[cite: 1].
-* 💡 Particularly interested in **Retrieval Augmented Generation (RAG)** [cite: 1, 12] and applying AI to solve complex problems, like my work in Actuarial Auditing[cite: 11].
-* 🚀 Experienced in turning data into insights, building predictive models[cite: 10], and developing AI pipelines using Python, SQL, and cloud technologies[cite: 11, 13].
-* 🌐 Fluent in English (C1 Advanced) [cite: 9] and intermediate Spanish[cite: 9].
+I'm passionate about the entire data lifecycle: **ETL, Data Analysis, Business Intelligence, Machine Learning**, and architecting robust solutions, especially using **AWS**. My goal is to leverage data to drive insights and build intelligent applications.
+
+* 🧠 Currently working as an **AI Engineer**, diving deep into applying AI for Actuarial Expertise, building **Retrieval Augmented Generation (RAG)** systems from legal documents, and creating **Python pipelines** with tools like **PyTorch** and **LangChain**.
+* 📈 Brings 3 years of prior experience as a **Business Intelligence Specialist**, focused on creating automated dashboards, optimizing processes through data analysis, managing KPIs, and developing predictive models.
+* ☁️ **AWS Certified Cloud Practitioner** with hands-on experience in various AWS services.
+* 🚀 Always exploring new ways to transform data into action!
 
 ## 🛠️ My Tech Stack & Skills
 
-* **Programming & Databases:**
-    * 🐍 **Python (Advanced):** OOP, Data Manipulation (Pandas, NumPy), ML (Scikit-Learn, PyTorch [cite: 13]), NLP (LangChain [cite: 13]), File Handling, Visualization (Matplotlib, Plotly)[cite: 3]. *(Cert: Stanford/DeepLearning.AI [cite: 3])*
-    * 💾 **SQL (Advanced):** Complex Query Optimization, Stored Procedures/Functions, ERD Modeling (Relational & NoSQL concepts)[cite: 3].
-    * 📊 **R (Advanced):** EDA, Statistical Inference, Hypothesis Testing, Data Cleaning & Visualization[cite: 4]. *(Cert: JHU [cite: 5])*
-    * 📈 **Excel (Advanced):** Formulas, Statistical Functions, PivotTables, Macros/VBA, Dashboards[cite: 5]. *(Cert: Macquarie Univ. [cite: 6])*
-* **Cloud & MLOps:**
-    * ☁️ **AWS:** EC2, S3, Lambda, RDS, VPC, IAM, CloudFront, ELB, CloudWatch, SNS, Route 53[cite: 7]. *(Cert: AWS Certified Cloud Practitioner [cite: 8])*
-    * 🐳 **(Implied DevOps/Containerization Skills - Consider adding Docker if applicable)**
-* **BI & Visualization:**
-    * <img src="https://img.shields.io/badge/Looker%20(Google%20Data%20Studio)-4285F4?style=flat-square&logo=google-data-studio&logoColor=white" /> | Power BI | Tableau | Zoho Analytics[cite: 6].
-* **Concepts:** Machine Learning (Regression, Classification, Recommendation, Reinforcement Learning [cite: 3]), ETL[cite: 1], RAG[cite: 1, 12], Business Intelligence[cite: 1, 10], Data Analysis[cite: 1].
+* **Core Languages:** 🐍 Python (Advanced: OOP, ML - Scikit-Learn, Data Processing - Pandas/NumPy, Viz - Matplotlib/Plotly) | 💾 SQL (Advanced: Optimization, Functions, Modeling) | 📊 R (Advanced: EDA, Stats, Viz)
+* **AI/ML:** 🔥 PyTorch | 🤗 LangChain | Scikit-Learn | (Concepts: Supervised & Unsupervised Learning, RAG)
+* **BI & Visualization:** <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" /> | Tableau | Google Looker Studio | Zoho Analytics | <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" /> (Advanced, VBA)
+* **Cloud & Ops:** ☁️ AWS (EC2, S3, Lambda, RDS, VPC, IAM, etc.) | 🐳 Docker (Conceptual understanding implied via modern pipelines) | 🐙 Git
+* **Databases:** Relational (SQL) | NoSQL (Conceptual understanding: Key-Value, Document, Graph)
+* **Languages:** 🇵🇹 Portuguese (Native) | 🇬🇧 English (C1 Advanced) | 🇪🇸 Spanish (Intermediate)
 
-## 🚀 Experience & Current Focus
+## 🚀 What I'm Focused On
 
-* **AI Engineer @ G.A.S. Global Actuarial Solution (2023-Present):** Focusing on AI for Actuarial Auditing[cite: 11]. Key achievement: Innovated by creating a RAG pipeline for processing legal documents (PDFs -> Markdown) using Python, PyTorch, and LangChain[cite: 12, 13]. Also improved calculation engines using SQL/Python[cite: 11].
-* **Business Intelligence Specialist @ Farol Do Futuro (2020-2023):** Spent 3 years implementing automated dashboards/reports, analyzing data for strategic decisions, managing databases/KPIs, and developing predictive models[cite: 10].
-* 🔭 Currently enhancing my skills in [**Mention a specific project you are working on here, e.g., deploying scalable ML models on AWS, exploring advanced RAG techniques**].
-* 🌱 Always learning and diving deeper into AI/ML advancements.
-* 💬 Ask me about building RAG systems, automating BI reports, or applying Python for data analysis!
-
-✨ **Check out my pinned repositories below!** ✨
-
+* 🔭 Building and refining **AI solutions** for specialized domains like Actuarial Science, particularly focusing on **RAG implementations**.
+* 🌱 Deepening my knowledge in **MLOps** and scalable cloud architectures on **AWS**.
+* 💡 Exploring advancements in **NLP** and efficient data pipeline automation.
+* 💬 Ask me about transforming raw data (even PDFs!) into structured knowledge bases or building BI dashboards!
 
 ---
-<p align="center">🚀Act so that the effects of your actions are compatible with the permanence of genuine human life! Let's connect and build something amazing! 🚀</p>
+<p align="center">🚀  Act so that the effects of your actions are compatible with the permanence of genuine human life! Let's connect and build something impactful! 🚀</p>
+
+✨ **Check out my pinned repositories below!** ✨
