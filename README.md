@@ -1,14 +1,12 @@
-# Hi there 👋
-
 <p align="left">
   <a href="https://linkedin.com/in/gabriel-machadoo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-gabriel--machadoo-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/Gabriel-Machado-GM" target="_blank"><img src="https://img.shields.io/badge/GitHub-Gabriel--Machado--GM-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="mailto:gabriel.machado.gmbr@gmail.com"><img src="https://img.shields.io/badge/Email-gabriel.machado.gmbr@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   </p>
 
-## Hey there! 👋 I'm Gabriel Machado
+# Hey there! 👋 I'm Gabriel Machado
 
-A driven **Data Science & AI enthusiast** currently pursuing a Bachelor's degree in Data Science and Artificial Intelligence at UNIVESP (expected 2025)[cite: 2]. Based in São Paulo, Brazil 🇧🇷.
+A driven **Data Science & AI enthusiast** currently pursuing a Bachelor's degree in Data Science and Artificial Intelligence at UNIVESP [cite: 2]. Based in São Paulo, Brazil 🇧🇷.
 
 * 🧠 Passionate about the entire data lifecycle: **ETL, Data Analysis, Business Intelligence, Machine Learning, and architecting AWS solutions**[cite: 1].
 * 💡 Particularly interested in **Retrieval Augmented Generation (RAG)** [cite: 1, 12] and applying AI to solve complex problems, like my work in Actuarial Auditing[cite: 11].
@@ -37,9 +35,8 @@ A driven **Data Science & AI enthusiast** currently pursuing a Bachelor's degree
 * 🌱 Always learning and diving deeper into AI/ML advancements.
 * 💬 Ask me about building RAG systems, automating BI reports, or applying Python for data analysis!
 
-✨ **Check out my pinned repositories below!** They showcase some of my work in [**Mention project themes like: AI Pipelines, Data Analysis, BI Dashboards**]. ✨
+✨ **Check out my pinned repositories below!** ✨
 
-## 📊 My GitHub Stats (Optional - Add if you like)
 
 ---
-<p align="center">🚀 Let's connect and build something amazing! 🚀</p>
+<p align="center">🚀Act so that the effects of your actions are compatible with the permanence of genuine human life! Let's connect and build something amazing! 🚀</p>
