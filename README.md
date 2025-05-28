@@ -10,7 +10,7 @@ A **Data Science & AI enthusiast** based in São Paulo, Brazil 🇧🇷, current
 
 I'm passionate about the entire data lifecycle: **ETL, Data Analysis, Business Intelligence, Machine Learning**, and architecting robust solutions, especially using **AWS**. My goal is to leverage data to drive insights and build intelligent applications.
 
-* 🧠 Currently working as an **AI Engineer**, diving deep into applying AI for Actuarial Expertise, building **Retrieval Augmented Generation (RAG)** systems from legal documents, and creating **Python pipelines** with tools like **PyTorch** and **LangChain**.
+* 🧠 Currently working as an **Data Science Consultant / AI Engineer**, diving deep into applying AI for Management Solutions, building **Retrieval Augmented Generation (RAG)** systems from legal documents, and creating **Python pipelines** with tools like **PyTorch** and **LangChain**.
 * 📈 Brings 3 years of prior experience as a **Business Intelligence Specialist**, focused on creating automated dashboards, optimizing processes through data analysis, managing KPIs, and developing predictive models.
 * ☁️ **AWS Certified Cloud Practitioner** with hands-on experience in various AWS services.
 * 🚀 Always exploring new ways to transform data into action!
